@@ -9,4 +9,4 @@ gametest
 
 
 if file is blocked then:
-(https://sites.google.com/stu.green.kyschools.us/go-to-link-then-download-and-r/home)
+https://drive.google.com/file/d/1GmeZDuU2aE2vwVIjSVX_R23cVS93HMze/view?userstoinvite=%22%22&pli=1
